@@ -1,0 +1,7 @@
+C:\Users\colin\source\repos\extension_methods\extension_methods\bin\Debug\extension_methods.exe.config
+C:\Users\colin\source\repos\extension_methods\extension_methods\bin\Debug\extension_methods.exe
+C:\Users\colin\source\repos\extension_methods\extension_methods\bin\Debug\extension_methods.pdb
+C:\Users\colin\source\repos\extension_methods\extension_methods\obj\Debug\extension_methods.csprojResolveAssemblyReference.cache
+C:\Users\colin\source\repos\extension_methods\extension_methods\obj\Debug\extension_methods.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\extension_methods\extension_methods\obj\Debug\extension_methods.exe
+C:\Users\colin\source\repos\extension_methods\extension_methods\obj\Debug\extension_methods.pdb
