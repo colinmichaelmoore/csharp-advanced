@@ -1,0 +1,7 @@
+C:\Users\colin\source\repos\advanced-linq\advanced-linq\obj\Debug\advanced-linq.csprojResolveAssemblyReference.cache
+C:\Users\colin\source\repos\advanced-linq\advanced-linq\obj\Debug\advanced-linq.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\advanced-linq\advanced-linq\bin\Debug\advanced-linq.exe.config
+C:\Users\colin\source\repos\advanced-linq\advanced-linq\bin\Debug\advanced-linq.exe
+C:\Users\colin\source\repos\advanced-linq\advanced-linq\bin\Debug\advanced-linq.pdb
+C:\Users\colin\source\repos\advanced-linq\advanced-linq\obj\Debug\advanced-linq.exe
+C:\Users\colin\source\repos\advanced-linq\advanced-linq\obj\Debug\advanced-linq.pdb
